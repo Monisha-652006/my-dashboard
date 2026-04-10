@@ -1,0 +1,13 @@
+streamlit
+numpy
+opencv-python-headless
+Pillow
+torch
+torchvision
+matplotlib
+networkx
+folium
+streamlit-folium
+scikit-learn
+joblib
+scikit-image
